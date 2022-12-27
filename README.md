@@ -77,7 +77,7 @@ Developed by: S Kantha Sishanth
 RegisterNumber:  22007660
 ~~~
 ### Logic symbol & Truth table:
-![_](/Logic And Truth.png)
+![Logic symbol & Truth table](https://github.com/Skanthasishanth/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/blob/main/Logic%20And%20Truth.png)
 
 
 ### RTL realization:
