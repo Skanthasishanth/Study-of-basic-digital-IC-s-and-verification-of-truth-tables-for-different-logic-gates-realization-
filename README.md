@@ -77,11 +77,13 @@ Developed by: S Kantha Sishanth
 RegisterNumber:  22007660
 ~~~
 ### Logic symbol & Truth table:
- 
+![Logic symbol & Truth table](/Logic And Truth.png)
 
 
 ### RTL realization:
+![RTL realization](/RTL Viewer.png)
 
 
-Result:
+
+### Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
