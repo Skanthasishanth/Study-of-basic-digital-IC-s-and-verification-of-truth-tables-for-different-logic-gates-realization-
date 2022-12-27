@@ -77,11 +77,11 @@ Developed by: S Kantha Sishanth
 RegisterNumber:  22007660
 ~~~
 ### Logic symbol & Truth table:
-![Logic symbol & Truth table](/Logic And Truth.png)
+![_](/Logic And Truth.png)
 
 
 ### RTL realization:
-![RTL realization](/RTL Viewer.png)
+![.](/RTL Viewer.png)
 
 
 
